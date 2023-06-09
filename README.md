@@ -1,9 +1,9 @@
 <h1 align="center">Assalamu Alaikum 👋, I'm Sk.MD.Golam Arman</h1>
-<h3 align="center">A passionate web and app developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikharman100&label=Profile%20views&color=0e75b6&style=flat" alt="sheikharman100" /> </p>
 
-- 🌱 I’m currently learning **Web3.0**
+- 🌱 I’m currently learning **Nextjs13**
 
 - 💬 Ask me about **react,nextjs,mern,flutter**
 
