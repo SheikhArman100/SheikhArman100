@@ -17,9 +17,9 @@
 </p>
 </p>
 <h3 align="left">Live project Link:</h3>
-<ul align="left>
 
-  - ⬇⬇⬇
+- <a href="https://baking-tales-v2.vercel.app">Baking Tales</a
+ 
   <li><a href="https://baking-tales-v2.vercel.app">Baking Tales</a></li>
   <li><a href="https://news-journal-kcez.vercel.app">News Website</a></li>
   <li><a href="https://photographer-portfolio-six.vercel.app">Photogrpher portfolio</a></li>
@@ -29,5 +29,5 @@
   <li><a href="https://music-project-flame.vercel.app/">Music Landing Page</a></li>
   
       
-</ul>
+
 
