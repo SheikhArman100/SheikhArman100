@@ -16,22 +16,15 @@
 <a href="https://www.linkedin.com/in/sheikharman100/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_arman100__" height="30" width="40" /></a>
 </p>
 </p>
-<h3 align="left">Connect with me:</h3>
-
-
-
-
-https://photo-gallery-two-iota.vercel.app/
-https://music-project-flame.vercel.app/
-
+<h3 align="left">Live project Link:</h3>
 <ul align="left>
-  <li><a href="https://baking-tales-v2.vercel.app/">Baking Shop<a/></li>
-    <li><a href="https://news-journal-kcez.vercel.app">News Website</a></li>
-    <li><a href="https://photographer-portfolio-six.vercel.app">Photogrpher portfolio</a></li>
-    <li><a href="https://task-list-mern-app.vercel.app">Tasklist Management</a></li>
-    <li><a href="https://superb-pixie-9d1a7d.netlify.app/">Car Landing Page</a></li>
-    <li><a href="https://photo-gallery-two-iota.vercel.app/">persoal Photo Gallery</a></li>
-    <li><a href="https://music-project-flame.vercel.app/">Music Landing Page</a></li>
+  <li><a href="https://baking-tales-v2.vercel.app/">Baking Shop</a></li>
+  <li><a href="https://news-journal-kcez.vercel.app">News Website</a></li>
+  <li><a href="https://photographer-portfolio-six.vercel.app">Photogrpher portfolio</a></li>
+  <li><a href="https://task-list-mern-app.vercel.app">Tasklist Management</a></li>
+  <li><a href="https://superb-pixie-9d1a7d.netlify.app/">Car Landing Page</a></li>
+  <li><a href="https://photo-gallery-two-iota.vercel.app/">persoal Photo Gallery</a></li>
+  <li><a href="https://music-project-flame.vercel.app/">Music Landing Page</a></li>
       
 </ul>
 
