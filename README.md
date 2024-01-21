@@ -23,7 +23,7 @@
 - <a href="https://photographer-portfolio-six.vercel.app">Photogrpher portfolio</a>
 - <a href="https://task-list-mern-app.vercel.app">Tasklist Management</a>
 - <a href="https://superb-pixie-9d1a7d.netlify.app/">Car Landing Page</a>
-- <a href="https://photo-gallery-two-iota.vercel.app/">Persnoal Photo Gallery</a>
+- <a href="https://photo-gallery-two-iota.vercel.app/">Personal Photo Gallery</a>
 - <a href="https://music-project-flame.vercel.app/">Music Landing Page</a>
 
   
