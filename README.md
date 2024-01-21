@@ -16,8 +16,9 @@
 <a href="https://www.linkedin.com/in/sheikharman100/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_arman100__" height="30" width="40" /></a>
 </p>
 </p>
-<h3 align="left">Live project Link:</h3>
+
 <ul align="left>
+<h3 align="left">Live project Link:</h3>
   
   <li><a href="https://baking-tales-v2.vercel.app">Baking Tales</a></li>
   <li><a href="https://news-journal-kcez.vercel.app">News Website</a></li>
