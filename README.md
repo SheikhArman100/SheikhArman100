@@ -18,10 +18,11 @@
 </p>
 <h3 align="left">Live project Link:</h3>
 
-- <a href="https://baking-tales-v2.vercel.app">Baking Tales</a
+- <a href="https://baking-tales-v2.vercel.app">Baking Tales</a>
+- <a href="https://news-journal-kcez.vercel.app">News Website</a>
  
-  <li><a href="https://baking-tales-v2.vercel.app">Baking Tales</a></li>
-  <li><a href="https://news-journal-kcez.vercel.app">News Website</a></li>
+  
+  
   <li><a href="https://photographer-portfolio-six.vercel.app">Photogrpher portfolio</a></li>
   <li><a href="https://task-list-mern-app.vercel.app">Tasklist Management</a></li>
   <li><a href="https://superb-pixie-9d1a7d.netlify.app/">Car Landing Page</a></li>
