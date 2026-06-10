@@ -48,4 +48,3 @@ I'm a Software Engineer with 2+ years of professional experience at Softograph L
 
 - 📧 Email: [sheikharman100@gmail.com](mailto:sheikharman100@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/sheikharman100](https://linkedin.com/in/sheikharman100)
-- 🌐 Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
