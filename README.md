@@ -4,7 +4,7 @@
 
 I'm a Software Engineer with 2+ years of professional experience at Softograph Ltd, building scalable backend systems and full-stack web applications used by thousands of concurrent users. I specialize in Node.js and TypeScript, designing RESTful APIs, async job pipelines with RabbitMQ and Redis for high-load processing, and real-time features via Socket.IO. On the frontend, I build responsive interfaces using React.js, Next.js, Redux, and TanStack Query. I have worked across education technology, AI-powered platforms, and enterprise operations management domains. I write clean, maintainable code following DRY and SOLID principles and continuously expand my skill set through self-directed learning in Golang and FastAPI.
 
-📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 [sheikharman100@gmail.com](mailto:sheikharman100@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sheikharman100) &nbsp;|&nbsp; 🌐 [Portfolio](https://personal-portfolio-delta-lime-54.vercel.app)
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 [sheikharman100@gmail.com](mailto:sheikharman100@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sheikharman100) &nbsp;|&nbsp; 🌐 [Portfolio](https://personal-portfolio-plum-eta-48.vercel.app/)
 
 ---
 
